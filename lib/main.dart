@@ -10,7 +10,7 @@ class WebMasterApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'App WebMaster',
+        title: 'App WebMaster v2',
         theme: ThemeData(
           primarySwatch: Colors.orange,
         ),
